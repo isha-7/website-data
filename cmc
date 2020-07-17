@@ -8,7 +8,7 @@
 			"price" : "200 to 390 Rs.",
 			"description" : "Some of the flavors available are Chocolate,Ferraro Rocher cake,Creap cake,Pineapple,Red velvet cake,Rose,Tutty-fruity,Dalgona coffee cake,Zebra cake,Vanilla,Oreo,Kit-Kat with frosting,Dora cake,mango royal,etc",
 			"rating" : "4.5*",
-			"imagelink" : "",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901292/PotoArt_202079215451903_hqzwf4.jpg",
 			"group" : ""
 		},
 		{
@@ -16,9 +16,9 @@
 			"price" : "150 to 200 Rs.",
 			"description" : "Some of the flavors available are Chocolate,Pineapple,Red velvet,Rose,Tutty-fruity,Vanilla,Oreo,Kit-Kat,Pista,etc",
 			"rating" : "4.5*",
-			"imagelink" : "",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968926/PotoArt_202079215533984_t7fnoi.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Menu for Cookies",
 			"price" : "150 to 200 Rs.",
@@ -26,23 +26,23 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900592/PotoArt_20207921556644_cfzjfq.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Chocolate Boquet",
 			"price" : "200 to 1000 Rs.",
 			"description" : "kit-Kat,Dairy Milk,Customized",
 			"rating" : "4.5*",
-			"imagelink" : "",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968915/PotoArt_202079215519922_nwtvb5.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Menu for other",
 			"price" : "150 to 300 Rs.",
 			"description" : "Pudding,Ferraro Rocherr chocolate,other chocoates like white/dark(with nuts/without nuts),Oreo tuffels,Oreo Balls,Chocolate tuffels,coffee tuffels,Almand tuffels,choco lava and bread lava ",
 			"rating" : "4.5*",
-			"imagelink" : "",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968861/PotoArt_202079215433977_gtvwyh.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Special French Desserts",
 			"price" : "100 to 500 Rs.",
@@ -50,23 +50,23 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892771/IMG_20200713_215407_098_mnf1kk.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Nachos",
 			"price" : "300 Rs.",
 			"description" : "Available with customized topings and salsa sause with cheese sause",
 			"rating" : "4.5*",
-			"imagelink" : "",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901301/PotoArt_202071223522190_reado0.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Drinks and Beverages",
 			"price" : "150 to 300 Rs.",
 			"description" : "Strawberry limeade,Cocktails,Fruit Soda,Virgin Mojito,Hazalnut coffee,kuka,Ice tea and Nector",
 			"rating" : "4.5*",
-			"imagelink" : "",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968988/PotoArt_2020715193644_cnebrl.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Rasmallai",
 			"price" : "25 Rs. per piece",
@@ -74,7 +74,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892775/IMG_20200711_225448_775_h0lusp.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Mint(Green) Samosa",
 			"price" : "15 Rs. per piece",
@@ -82,7 +82,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892776/IMG_20200711_223710_940_uedh1i.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Oreo Balls",
 			"price" : "130 Rs. - 6 piece",
@@ -90,7 +90,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892917/PotoArt_202073211929_zouclx.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Chocolate balls",
 			"price" : "15 Rs. per piece",
@@ -98,7 +98,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900791/PotoArt_202062716356893_xu62cw.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Bread lava",
 			"price" : "10 Rs. per piece",
@@ -106,7 +106,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892912/PotoArt_2020721553892_a83bf0.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Dalgona Cake",
 			"price" : "290 Rs",
@@ -114,7 +114,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892905/PotoArt_20206271319172_dfgqpx.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Chocolate Pudding",
 			"price" : "280",
@@ -122,7 +122,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892899/PotoArt_20206271434538_htdufe.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Nachos",
 			"price" : "300 Rs",
@@ -130,7 +130,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892855/IMG_20200711_020603_831_kfm3ep.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Chocolate Cupcakes",
 			"price" : "300 Rs",
@@ -138,7 +138,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892855/IMG_20200703_203518_245_pmgv8t.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Cupcakes with buttercream( pineapple flavored)",
 			"price" : "300 Rs",
@@ -146,7 +146,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892776/IMG_20200714_215128_902_suc2ue.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Kulcha and Paneer tikka",
 			"price" : "480 Rs",
@@ -154,7 +154,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892776/IMG_20200711_224659_138_jvilag.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Pizza Wraps",
 			"price" : "480 Rs",
@@ -162,7 +162,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892772/IMG_20200711_172524_475_qvcsir.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Homemade chocolates",
 			"price" : "5 Rs. per piece",
@@ -170,7 +170,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892772/IMG_20200711_172524_475_qvcsir.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Tandoori Momos",
 			"price" : "8 Rs. per piece",
@@ -178,7 +178,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892770/IMG_20200711_222439_832_xtzdxj.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Chocolate Cookies",
 			"price" : "7 Rs. per piece",
@@ -186,7 +186,7 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900586/PotoArt_20207719575172_l9kqp2.jpg",
 			"group" : ""
-		}
+		},
 		{
 			"title" : "Choco lava mini cakes",
 			"price" : "35 Rs. per piece",
@@ -194,39 +194,169 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900771/PotoArt_202062702259353_aygdy5.jpg",
 			"group" : ""
-		}
+		},
 		{
-			"title" : "Chocolate Cookies",
-			"price" : "7 Rs. per piece",
-			"description" : "My personal favourite starter",
+			"title" : "Oreo Cake",
+			"price" : "300",
+			"description" : "One of the best flavor available in cakes",
 			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900586/PotoArt_20207719575172_l9kqp2.jpg",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900799/PotoArt_2020629222248181_bobult.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Tutti frutty with chocolate mini cake",
+			"price" : "150 Rs. per piece",
+			"description" : "Simple yet tasty option available if you dont want large size cakes.",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900798/PotoArt_2020714184111352_ktso5s.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Dark hearts and White flowers(fruit and nut chocolates)",
+			"price" : "7 Rs. per piece",
+			"description" : "This is specially for the customers who love chocolates.",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901258/PotoArt_202071321619979_svbe9k.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Zebra Cake",
+			"price" : "350 Rs.",
+			"description" : "Both dark and white compound in the same cake. Try now..!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901262/PotoArt_2020627203143753_kfg8fm.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Dairy Milk Cake",
+			"price" : "290 Rs.",
+			"description" : "My personal favourite chocolate cake. ",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901271/PotoArt_2020627203049340_tvar6f.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Tutty fruity chocolate",
+			"price" : "5 Rs. per piece",
+			"description" : "Tasty tasty have some chocolates..!! ",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901305/PotoArt_202071321519490_ejij8h.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Donuts",
+			"price" : "15 Rs. per piece",
+			"description" : "People make memories...I make MOMOries...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901317/PotoArt_202062718496589_mfnqzm.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Red velvet cupcakes",
+			"price" : "15 Rs. per piece",
+			"description" : "Valentine special cupcakes....",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901364/PotoArt_2020714184159140_aiqeur.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Almand and Makhana Balls",
+			"price" : "9 Rs. per piece",
+			"description" : "It contains protein powder with almond and euryale ferox crumbs...Do give it a try, if you want something healthy... ",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968351/PotoArt_2020716175142210_v6nzrc.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "White chocolate with pista",
+			"price" : "6 Rs. per piece",
+			"description" : "My personal favourite ",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968357/PotoArt_2020716144623566_qeepte.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Nachos Packing",
+			"price" : "No charges",
+			"description" : "The give away of nachos is a limited period offer...so there are no packing charges....It is available in large and medium sizes....",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968358/PotoArt_2020715193642682_civ40d.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Pineapple Cake",
+			"price" : "350 Rs.",
+			"description" : "Best selling cake till the date...must try...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969061/IMG20200716221432_1_cvd2tn.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
+			"group" : ""
+		},
+		{
+			"title" : "Plain chocolates with customized dry fruits",
+			"price" : "7 Rs. per piece",
+			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
+			"rating" : "4.5*",
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
 			"group" : ""
 		}
-		{
-			"title" : "Chocolate Cookies",
-			"price" : "7 Rs. per piece",
-			"description" : "My personal favourite starter",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900586/PotoArt_20207719575172_l9kqp2.jpg",
-			"group" : ""
-		}
-		{
-			"title" : "Chocolate Cookies",
-			"price" : "7 Rs. per piece",
-			"description" : "My personal favourite starter",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900586/PotoArt_20207719575172_l9kqp2.jpg",
-			"group" : ""
-		}
-		{
-			"title" : "Chocolate Cookies",
-			"price" : "7 Rs. per piece",
-			"description" : "My personal favourite starter",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900586/PotoArt_20207719575172_l9kqp2.jpg",
-			"group" : ""
-		}
+
+
 
 
 
