@@ -1,55 +1,19 @@
 {
 	"featured" : [
+		"https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594980066/IMG_20200629_223141_170_e403qi.jpg"
+		"https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594980396/IMG_20200621_224446_576_ujqcap.jpg"
+		"https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594980379/IMG_20200627_000831_686_jpeo5u.jpg"
 
 	],
 	"data" : [
-		{
-			"title" : "Menu for Cakes",
-			"price" : "200 to 390 Rs.",
-			"description" : "Some of the flavors available are Chocolate,Ferraro Rocher cake,Creap cake,Pineapple,Red velvet cake,Rose,Tutty-fruity,Dalgona coffee cake,Zebra cake,Vanilla,Oreo,Kit-Kat with frosting,Dora cake,mango royal,etc",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901292/PotoArt_202079215451903_hqzwf4.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Menu for Cupcakes",
-			"price" : "150 to 200 Rs.",
-			"description" : "Some of the flavors available are Chocolate,Pineapple,Red velvet,Rose,Tutty-fruity,Vanilla,Oreo,Kit-Kat,Pista,etc",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968926/PotoArt_202079215533984_t7fnoi.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Menu for Cookies",
-			"price" : "150 to 200 Rs.",
-			"description" : "Some of the flavors available are Chocolate,Pineapple,Red velvet,Rose,Tutty-fruity,Vanilla,Oreo,Kit-Kat,Pista,Elaichi,jeera,etc",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900592/PotoArt_20207921556644_cfzjfq.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Chocolate Boquet",
-			"price" : "200 to 1000 Rs.",
-			"description" : "kit-Kat,Dairy Milk,Customized",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968915/PotoArt_202079215519922_nwtvb5.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Menu for other",
-			"price" : "150 to 300 Rs.",
-			"description" : "Pudding,Ferraro Rocherr chocolate,other chocoates like white/dark(with nuts/without nuts),Oreo tuffels,Oreo Balls,Chocolate tuffels,coffee tuffels,Almand tuffels,choco lava and bread lava ",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968861/PotoArt_202079215433977_gtvwyh.jpg",
-			"group" : ""
-		},
+	
 		{
 			"title" : "Special French Desserts",
 			"price" : "100 to 500 Rs.",
 			"description" : "Chocolate Madelines,Chocolate Eclair,Scones,Financiers,Macrons",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892771/IMG_20200713_215407_098_mnf1kk.jpg",
-			"group" : ""
+			"group" : "Cookies"
 		},
 		{
 			"title" : "Nachos",
@@ -57,7 +21,7 @@
 			"description" : "Available with customized topings and salsa sause with cheese sause",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901301/PotoArt_202071223522190_reado0.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Drinks and Beverages",
@@ -65,7 +29,7 @@
 			"description" : "Strawberry limeade,Cocktails,Fruit Soda,Virgin Mojito,Hazalnut coffee,kuka,Ice tea and Nector",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968988/PotoArt_2020715193644_cnebrl.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Rasmallai",
@@ -73,7 +37,7 @@
 			"description" : "It is one of the best selling option for dessert.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892775/IMG_20200711_225448_775_h0lusp.jpg",
-			"group" : ""
+			"group" : "desserts"
 		},
 		{
 			"title" : "Mint(Green) Samosa",
@@ -81,7 +45,7 @@
 			"description" : "It is one of the best selling option for starters.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892776/IMG_20200711_223710_940_uedh1i.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Oreo Balls",
@@ -89,7 +53,7 @@
 			"description" : "Oreo balls(Heart shape) are made up of star ingerdient like oreo crumbs and milkmade.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892917/PotoArt_202073211929_zouclx.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Chocolate balls",
@@ -97,7 +61,7 @@
 			"description" : "Chocolate balls are one of the best selling up till now.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900791/PotoArt_202062716356893_xu62cw.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Bread lava",
@@ -105,7 +69,7 @@
 			"description" : "It is a simple yet delecious recipy. Do give it a try...",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892912/PotoArt_2020721553892_a83bf0.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Dalgona Cake",
@@ -113,7 +77,7 @@
 			"description" : "Dalgona coffee is the most treanding beverage whereas dalgona cake is one such cake who like the strng flavor of coffee",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892905/PotoArt_20206271319172_dfgqpx.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Chocolate Pudding",
@@ -121,7 +85,7 @@
 			"description" : "Chocolate Pudding is one of the best selling.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892899/PotoArt_20206271434538_htdufe.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Nachos",
@@ -129,7 +93,7 @@
 			"description" : "This is a give away for a limitted peroiod...Order nachos with customized topings and salsa-cheese sause.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892855/IMG_20200711_020603_831_kfm3ep.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Chocolate Cupcakes",
@@ -137,7 +101,7 @@
 			"description" : "One of the best option for cupcakes.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892855/IMG_20200703_203518_245_pmgv8t.jpg",
-			"group" : ""
+			"group" : "CupCakes"
 		},
 		{
 			"title" : "Cupcakes with buttercream( pineapple flavored)",
@@ -145,7 +109,7 @@
 			"description" : "My personal favourite...",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892776/IMG_20200714_215128_902_suc2ue.jpg",
-			"group" : ""
+			"group" : "CupCakes"
 		},
 		{
 			"title" : "Kulcha and Paneer tikka",
@@ -153,7 +117,7 @@
 			"description" : "Main course ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892776/IMG_20200711_224659_138_jvilag.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Pizza Wraps",
@@ -161,7 +125,7 @@
 			"description" : "Happiness is eating Pizza wrapps with siblings ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892772/IMG_20200711_172524_475_qvcsir.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Homemade chocolates",
@@ -169,7 +133,7 @@
 			"description" : "Happiness is eating Pizza wrapps with siblings ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892772/IMG_20200711_172524_475_qvcsir.jpg",
-			"group" : ""
+			"group" : "CupCakes"
 		},
 		{
 			"title" : "Tandoori Momos",
@@ -177,7 +141,7 @@
 			"description" : "My personal favourite starter",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892770/IMG_20200711_222439_832_xtzdxj.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Chocolate Cookies",
@@ -185,15 +149,15 @@
 			"description" : "My personal favourite starter",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900586/PotoArt_20207719575172_l9kqp2.jpg",
-			"group" : ""
+			"group" : "Cookies"
 		},
 		{
 			"title" : "Choco lava mini cakes",
 			"price" : "35 Rs. per piece",
-			"description" : "Cheap things aren't tasty and tasty things aren't cheap",
+			"description" : "Cheap things aren't tasty and tasty things aren't cheap,
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900771/PotoArt_202062702259353_aygdy5.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Oreo Cake",
@@ -201,7 +165,7 @@
 			"description" : "One of the best flavor available in cakes",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900799/PotoArt_2020629222248181_bobult.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Tutti frutty with chocolate mini cake",
@@ -209,7 +173,7 @@
 			"description" : "Simple yet tasty option available if you dont want large size cakes.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594900798/PotoArt_2020714184111352_ktso5s.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Dark hearts and White flowers(fruit and nut chocolates)",
@@ -217,7 +181,7 @@
 			"description" : "This is specially for the customers who love chocolates.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901258/PotoArt_202071321619979_svbe9k.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Zebra Cake",
@@ -225,7 +189,7 @@
 			"description" : "Both dark and white compound in the same cake. Try now..!!!",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901262/PotoArt_2020627203143753_kfg8fm.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Dairy Milk Cake",
@@ -233,7 +197,7 @@
 			"description" : "My personal favourite chocolate cake. ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901271/PotoArt_2020627203049340_tvar6f.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Tutty fruity chocolate",
@@ -241,7 +205,7 @@
 			"description" : "Tasty tasty have some chocolates..!! ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901305/PotoArt_202071321519490_ejij8h.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Donuts",
@@ -249,7 +213,7 @@
 			"description" : "People make memories...I make MOMOries...!!!",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901317/PotoArt_202062718496589_mfnqzm.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Red velvet cupcakes",
@@ -257,7 +221,7 @@
 			"description" : "Valentine special cupcakes....",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594901364/PotoArt_2020714184159140_aiqeur.jpg",
-			"group" : ""
+			"group" : "CupCakes"
 		},
 		{
 			"title" : "Almand and Makhana Balls",
@@ -265,7 +229,7 @@
 			"description" : "It contains protein powder with almond and euryale ferox crumbs...Do give it a try, if you want something healthy... ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968351/PotoArt_2020716175142210_v6nzrc.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "White chocolate with pista",
@@ -273,7 +237,7 @@
 			"description" : "My personal favourite ",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968357/PotoArt_2020716144623566_qeepte.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Nachos Packing",
@@ -281,7 +245,7 @@
 			"description" : "The give away of nachos is a limited period offer...so there are no packing charges....It is available in large and medium sizes....",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594968358/PotoArt_2020715193642682_civ40d.jpg",
-			"group" : ""
+			"group" : "Others"
 		},
 		{
 			"title" : "Pineapple Cake",
@@ -289,7 +253,7 @@
 			"description" : "Best selling cake till the date...must try...!!!",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969061/IMG20200716221432_1_cvd2tn.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Plain chocolates with customized dry fruits",
@@ -297,69 +261,16 @@
 			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
+			"group" : "Desserts"
 		},
 		{
-			"title" : "",
-			"price" : "7 Rs. per piece",
+			"title" : "Pizza",
+			"price" : "250 Rs.",
 			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
 			"rating" : "4.5*",
-			"imagelink" : "",
-			"group" : ""
+			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594979820/IMG20200419202854_gd0jey.jpg",
+			"group" : "Others"
 		},
-		{
-			"title" : "Plain chocolates with customized dry fruits",
-			"price" : "7 Rs. per piece",
-			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Plain chocolates with customized dry fruits",
-			"price" : "7 Rs. per piece",
-			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Plain chocolates with customized dry fruits",
-			"price" : "7 Rs. per piece",
-			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Plain chocolates with customized dry fruits",
-			"price" : "7 Rs. per piece",
-			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Plain chocolates with customized dry fruits",
-			"price" : "7 Rs. per piece",
-			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
-		},
-		{
-			"title" : "Plain chocolates with customized dry fruits",
-			"price" : "7 Rs. per piece",
-			"description" : "Hurry up.....It's Chocolate O'clock...!!!",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594969028/IMG_20200717_004425_cf7dv5.jpg",
-			"group" : ""
-		}
-
-
-
-
-
-
+		
 	]
 }
