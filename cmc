@@ -37,7 +37,7 @@
 			"description" : "It is one of the best selling option for dessert.",
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892775/IMG_20200711_225448_775_h0lusp.jpg",
-			"group" : "desserts"
+			"group" : "Desserts"
 		},
 		{
 			"title" : "Mint(Green) Samosa",
@@ -126,14 +126,6 @@
 			"rating" : "4.5*",
 			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892772/IMG_20200711_172524_475_qvcsir.jpg",
 			"group" : "Others"
-		},
-		{
-			"title" : "Homemade chocolates",
-			"price" : "5 Rs. per piece",
-			"description" : "Happiness is eating Pizza wrapps with siblings ",
-			"rating" : "4.5*",
-			"imagelink" : "https://res.cloudinary.com/call-me-cupcakes/image/upload/v1594892772/IMG_20200711_172524_475_qvcsir.jpg",
-			"group" : "CupCakes"
 		},
 		{
 			"title" : "Tandoori Momos",
